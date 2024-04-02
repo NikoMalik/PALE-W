@@ -45,7 +45,7 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOGERAZ)](https://github.com/DOGERAZ/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PALE-W)](https://github.com/PALE-W/github-readme-stats)
 
 ![PALE-W's github stats](https://github-readme-stats.vercel.app/api?username=PALE-W&count_private=true&show_icons=true&theme=dracula)
 
