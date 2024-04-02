@@ -1,8 +1,8 @@
 ### Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-[![](https://img.shields.io/badge/-@DogerazOfficial-%23181717?style=flat-square&logo=x)](https://twitter.com/DogerazOfficial)
+[![](https://img.shields.io/badge/-@Pale__W-%23181717?style=flat-square&logo=x)]([https://twitter.com/DogerazOfficial](https://twitter.com/Pale__W))
 [![](https://img.shields.io/badge/-@dogeraz-%23181717?style=flat-square&logo=instagram)](https://www.instagram.com/dogeraz/)
-[![](https://img.shields.io/badge/-@dogeraz-%23000000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCEj5L8SwjRcH05TapAskZzQ)
+[![](https://img.shields.io/badge/-@PALE_W-%23000000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UC6SAVNeHycnhi17MZCkiTmQ)
 
 
 
@@ -47,6 +47,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOGERAZ)](https://github.com/DOGERAZ/github-readme-stats)
 
-![DOGERAZ's github stats](https://github-readme-stats.vercel.app/api?username=DOGERAZ&count_private=true&show_icons=true&theme=dracula)
+![PALE-W's github stats](https://github-readme-stats.vercel.app/api?username=PALE-W&count_private=true&show_icons=true&theme=dracula)
 
 </details>
